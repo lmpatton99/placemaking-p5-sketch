@@ -61,13 +61,13 @@ function draw() {
     let x2 = x - 400;
     let y2 = y - 880;
 
-    let x3 = 200;
+    let x3 = x - 700;
     let y3 = 90;
 
-    let x4 = x - 200;
+    let x4 = x - 800;
     let y4 = y - 100;
 
-    let x5 = x - 400;
+    let x5 = x - 658;
     let y5 = y - 590;
 
     let x6 = x - 231;
