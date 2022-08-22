@@ -46,12 +46,12 @@ function draw() {
     createCanvas(windowWidth, windowHeight);
     background(250, 250, 250);
 
-    var x = window.innerWidth - 20px;
-    var y = window.innerHeight - 20px;
+    var x = window.innerWidth;
+    var y = window.innerHeight;
 
 
     if (window.innerWidth < 600) {
-        var x = 1200 - window.innerWidth - 20px;
+        var x = 1200 - window.innerWidth;
     }
 
 
